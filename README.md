@@ -1,6 +1,6 @@
 # aplicaciones_moviles_uniojeda
 
-A new Flutter project.
+Proyecto realizado con Flutter para asignación de la materia "Aplicaciones Móviles" de la carrera Ingeniería en Computación
 
 ## Getting Started
 
